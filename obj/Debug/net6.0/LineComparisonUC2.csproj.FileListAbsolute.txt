@@ -1,0 +1,15 @@
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\bin\Debug\net6.0\LineComparisonUC2.exe
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\bin\Debug\net6.0\LineComparisonUC2.deps.json
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\bin\Debug\net6.0\LineComparisonUC2.runtimeconfig.json
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\bin\Debug\net6.0\LineComparisonUC2.dll
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\bin\Debug\net6.0\LineComparisonUC2.pdb
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\LineComparisonUC2.csproj.AssemblyReference.cache
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\LineComparisonUC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\LineComparisonUC2.AssemblyInfoInputs.cache
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\LineComparisonUC2.AssemblyInfo.cs
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\LineComparisonUC2.csproj.CoreCompileInputs.cache
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\LineComparisonUC2.dll
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\refint\LineComparisonUC2.dll
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\LineComparisonUC2.pdb
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\LineComparisonUC2.genruntimeconfig.cache
+D:\RFP-240\LineComparison\LineComparisonUC2\LineComparisonUC2\obj\Debug\net6.0\ref\LineComparisonUC2.dll
